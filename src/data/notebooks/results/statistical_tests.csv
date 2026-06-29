@@ -1,0 +1,22 @@
+Model A,Model B,p-value,Better,Significant
+Linear Regression,Ridge Regression,0.0,Linear Regression,Yes
+Linear Regression,Lasso Regression,0.0003,Lasso Regression,Yes
+Linear Regression,SVR,0.0,Linear Regression,Yes
+Linear Regression,Random Forest,0.0,Random Forest,Yes
+Linear Regression,Gradient Boosting,0.0,Gradient Boosting,Yes
+Linear Regression,XGBoost (Tuned),0.0,XGBoost (Tuned),Yes
+Ridge Regression,Lasso Regression,0.0,Lasso Regression,Yes
+Ridge Regression,SVR,0.0,Ridge Regression,Yes
+Ridge Regression,Random Forest,0.0,Random Forest,Yes
+Ridge Regression,Gradient Boosting,0.0,Gradient Boosting,Yes
+Ridge Regression,XGBoost (Tuned),0.0,XGBoost (Tuned),Yes
+Lasso Regression,SVR,0.0,Lasso Regression,Yes
+Lasso Regression,Random Forest,0.0,Random Forest,Yes
+Lasso Regression,Gradient Boosting,0.0,Gradient Boosting,Yes
+Lasso Regression,XGBoost (Tuned),0.0,XGBoost (Tuned),Yes
+SVR,Random Forest,0.0,Random Forest,Yes
+SVR,Gradient Boosting,0.0,Gradient Boosting,Yes
+SVR,XGBoost (Tuned),0.0,XGBoost (Tuned),Yes
+Random Forest,Gradient Boosting,0.0,Gradient Boosting,Yes
+Random Forest,XGBoost (Tuned),0.0014,XGBoost (Tuned),Yes
+Gradient Boosting,XGBoost (Tuned),0.0,Gradient Boosting,Yes

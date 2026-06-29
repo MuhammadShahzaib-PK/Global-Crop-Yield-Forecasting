@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project develops a machine learning framework for global crop yield prediction using multi-source FAOSTAT datasets covering 244 countries from 1990–2022. Climate, agricultural, and socio-economic indicators are integrated into a unified predictive model, with SHAP explainability used to interpret model predictions.
+This project develops a machine learning framework for global crop yield prediction using multi-source FAOSTAT datasets covering 244 countries from 1990–2022. Climate, agricultural, and socio-economic indicators are integrated into a unified predictive model, with SHAP explainability used to interpret model predictions. 
 
 ---
 

@@ -36,7 +36,18 @@ This project is part of an independent research pipeline and is being prepared f
 ## Full Manuscript
 The full research manuscript is available here:
 
-- [Paper](Main Manuscript.docx)
+[Paper](Main Manuscript.docx)
+
+## How to Run This Project
+
+### 1. Clone repository
+git clone https://github.com/MuhammadShahzaib-PK/Global-Crop-Yield-Forecasting.git
+
+### 2. Install dependencies
+pip install -r requirements.txt
+
+### 3. Run model training
+python src/main.py
 
 ## Author
 Muhammad Shahzaib

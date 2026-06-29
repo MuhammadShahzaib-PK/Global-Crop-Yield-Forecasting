@@ -33,6 +33,11 @@ Python, Pandas, NumPy, Scikit-learn, XGBoost, SHAP, Matplotlib
 ## Status
 This project is part of an independent research pipeline and is being prepared for manuscript submission.
 
+## Full Manuscript
+The full research manuscript is available here:
+
+- [Paper](Main Manuscript.docx)
+
 ## Author
 Muhammad Shahzaib
 Independent Researcher | Mechatronics Engineer

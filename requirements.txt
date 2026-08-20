@@ -1,9 +1,11 @@
-numpy
 pandas
+numpy
 scikit-learn
-xgboost
-matplotlib
-seaborn
-shap
 scipy
+xgboost
+lightgbm
+catboost
+shap
+matplotlib
 jupyter
+jupytext

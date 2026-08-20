@@ -1,0 +1,3 @@
+,mean_abs_offset,mean_within_country_std,corr_offset_vs_distance
+Linear,407.11,333.302,0.639
+RandomForest,511.099,413.354,0.889

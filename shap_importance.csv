@@ -1,0 +1,7 @@
+,catboost_with_lag,catboost_no_lag,linear_with_lag,linear_no_lag
+nitrogen_total,11.85,35.0,7.76,46.26
+phosphorus_total,6.89,12.77,1.82,9.07
+potassium_total,10.98,22.13,4.31,17.69
+precip_annual,6.24,21.9,3.62,20.23
+temp_change,2.89,8.2,0.11,6.75
+yield_lag1,61.17,,82.39,

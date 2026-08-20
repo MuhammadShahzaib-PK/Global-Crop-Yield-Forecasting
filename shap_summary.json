@@ -1,0 +1,32 @@
+{
+  "catboost_with_lag": {
+    "nitrogen_total": 11.845785037650527,
+    "phosphorus_total": 6.8859640550553145,
+    "potassium_total": 10.97557833484981,
+    "precip_annual": 6.23833298718534,
+    "temp_change": 2.889257443568439,
+    "yield_lag1": 61.16508214169057
+  },
+  "catboost_no_lag": {
+    "nitrogen_total": 35.00005027721949,
+    "phosphorus_total": 12.765999964286676,
+    "potassium_total": 22.12797805069341,
+    "precip_annual": 21.9019788995499,
+    "temp_change": 8.203992808250522
+  },
+  "linear_with_lag": {
+    "nitrogen_total": 7.761683701008255,
+    "phosphorus_total": 1.8160105849796717,
+    "potassium_total": 4.306564161488401,
+    "precip_annual": 3.6197188659968234,
+    "temp_change": 0.10972351819289802,
+    "yield_lag1": 82.38629916833395
+  },
+  "linear_no_lag": {
+    "nitrogen_total": 46.25983993756402,
+    "phosphorus_total": 9.068798998558867,
+    "potassium_total": 17.686607823012935,
+    "precip_annual": 20.23195228931161,
+    "temp_change": 6.752800951552574
+  }
+}
